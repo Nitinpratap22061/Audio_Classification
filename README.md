@@ -132,7 +132,7 @@ streamlit run streamlit_app.py
 ## ✍️ Author
 
 **Nitin Pratap**  
-[GitHub](https://github.com/nitinpratap121)
+[GitHub](https://github.com/Nitinpratap22061/)
 
 ---
 
