@@ -1,13 +1,17 @@
-# Essential build tools to avoid BackendUnavailable error
+# Build tools
 setuptools>=42
 wheel
-pip
+pip>=23.0
 
 # Core dependencies
-streamlit
+streamlit==1.29.0
 numpy==1.24.4
 numba==0.57.1
 pandas==2.0.3
-librosa
-scikit-learn
-matplotlib
+scikit-learn==1.3.0
+matplotlib==3.7.1
+
+# Audio processing
+librosa==0.10.0.post2
+soundfile==0.12.1
+audioread==3.0.0
