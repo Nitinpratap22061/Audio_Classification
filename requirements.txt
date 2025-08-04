@@ -1,17 +1,9 @@
-# Build tools
-setuptools>=42
-wheel
-pip>=23.0
-
-# Core dependencies
 streamlit
-numpy
-
+tensorflow==2.13.0
+numpy==1.24.4
 pandas
 scikit-learn
 matplotlib
-tensorflow
-
-# Audio processing
 librosa
-
+soundfile
+audioread
