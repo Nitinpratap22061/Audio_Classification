@@ -4,13 +4,13 @@ wheel
 pip>=23.0
 
 # Core dependencies
-streamlit==1.29.0
-numpy>=1.26.0
+streamlit
+numpy
 
-pandas==2.0.3
-scikit-learn==1.3.0
-matplotlib==3.7.1
+pandas
+scikit-learn
+matplotlib
 
 # Audio processing
-librosa==0.10.0.post2
+librosa
 
