@@ -1,3 +1,9 @@
+# Essential build tools to avoid BackendUnavailable error
+setuptools>=42
+wheel
+pip
+
+# Core dependencies
 streamlit
 numpy==1.24.4
 numba==0.57.1
