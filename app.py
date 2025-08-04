@@ -1,7 +1,5 @@
 import streamlit as st
 
-import sys
-st.write("🐍 Python version in use:", sys.version)
 
 import numpy as np
 import librosa
